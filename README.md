@@ -54,3 +54,9 @@ All data is saved locally in `/data/*.json` — no cloud, no accounts.
 ## License
 
 Free to use for personal collection tracking.
+
+## Support
+
+Optional — never required. If this project helps you:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q1K124VQFX)
